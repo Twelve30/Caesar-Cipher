@@ -1,7 +1,0 @@
-C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Caesar Cipher\Caesar Cipher\bin\Debug\Caesar Cipher.exe.config
-C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Caesar Cipher\Caesar Cipher\bin\Debug\Caesar Cipher.exe
-C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Caesar Cipher\Caesar Cipher\bin\Debug\Caesar Cipher.pdb
-C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Caesar Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.csproj.AssemblyReference.cache
-C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Caesar Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.csproj.CoreCompileInputs.cache
-C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Caesar Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.exe
-C:\Users\abhra\OneDrive\Documents\Visual Studio 2022\Projects\Caesar Cipher\Caesar Cipher\obj\Debug\Caesar Cipher.pdb
